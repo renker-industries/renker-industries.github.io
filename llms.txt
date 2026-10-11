@@ -1,0 +1,7 @@
+# Renker Industries
+
+> Proof-based tooling for AI-written code. Open source; limits stated up front.
+
+## Projects
+- [CUSTOS](https://renker-industries.github.io/custos/): Proof-based guardrails for AI coding agents: no green check, no “done”. Claude Code plugin, MIT.
+- [Selfproof](https://renker-industries.github.io/selfproof/): Checks AI-written code and records evidence on a tamper-evident ledger. Pre-release, Apache-2.0.
